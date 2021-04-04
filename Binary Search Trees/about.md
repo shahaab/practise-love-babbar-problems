@@ -1,0 +1,1 @@
+Type of data structure for storing data in sorted order whose internal nodes each store a key greater than all the keys in the nodes of left sub tree and less than those in the right subtree.
