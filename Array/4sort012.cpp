@@ -1,4 +1,4 @@
-#include <bits/stdc.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void sort012(int a[], int arr_size)
